@@ -40,9 +40,9 @@ version is 4.3.10.
     mkdir -p ~/p
     ln -sf ~/p ~/PycharmProjects
 
-    .zprezto/myconf/.osx
-    python .zprezto/myconf/install_brew.py
-    python .zprezto/myconf/install_brewcask.py
+    ~/.zprezto/myconf/.osx
+    python ~/.zprezto/myconf/install_brew.py
+    python ~/.zprezto/myconf/install_brewcask.py
 
 ### Troubleshooting
 
