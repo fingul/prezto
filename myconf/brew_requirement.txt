@@ -1,0 +1,22 @@
+python --universal
+coreutils
+git
+ffmpeg
+media-info
+gstreamer
+gst-plugins-*
+redis
+pyside
+ssh-copy-id
+sshfs
+sshuttle
+elasticsearch
+thrift
+tmux
+tree
+youtube-dl
+zeromq
+watch
+wget
+htop
+http://toolbelt.treasure-data.com/brew/td-agent.rb

@@ -1,6 +1,6 @@
 import os
 
-p = os.path.join(os.path.dirname(__file__),'brew_requirement.txt')
+p = os.path.join(os.path.dirname(__file__), 'brewcask_requirement.txt')
 
 with open(p,'rb') as f:
     s = f.read()
