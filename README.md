@@ -35,9 +35,14 @@ version is 4.3.10.
 
   6. make pip cache-able
     mkdir -p ${HOME}/.pip
-    ln -sf .zprezto/conf/pip.conf ${HOME}/.pip/
+    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
 
-  7. python install_brew.py
+    mkdir -p ~/p
+    ln -sf ~/p ~/PycharmProjects
+
+    .zprezto/myconf/.osx
+    python .zprezto/myconf/install_brew.py
+    python .zprezto/myconf/install_brewcask.py
 
 ### Troubleshooting
 
