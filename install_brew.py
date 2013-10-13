@@ -9,9 +9,8 @@ l = map(lambda s:s.strip(),l)
 l = filter(lambda s:len(s),l)
 
 
-print "export "
 
-"""
+print """
 brew tap phinze/homebrew-cask
 brew install brew-cask
 
