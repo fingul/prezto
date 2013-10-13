@@ -33,6 +33,12 @@ version is 4.3.10.
 
   5. Open a new Zsh terminal window or tab.
 
+  6. make pip cache-able
+    mkdir -p ${HOME}/.pip
+    ln -sf .zprezto/conf/pip.conf ${HOME}/.pip/
+
+  7. python install_brew.py
+
 ### Troubleshooting
 
 If you are not able to find certain commands after switching to *Prezto*,
