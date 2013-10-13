@@ -23,7 +23,7 @@ mou
 pc-keyboardhack
 pg-commander
 postgres
-pycharm
+pycharm-pro
 rubymine
 skype
 sublime-text
