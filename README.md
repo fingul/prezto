@@ -41,6 +41,7 @@ version is 4.3.10.
     ln -sf ~/p ~/PycharmProjects
 
     ~/.zprezto/myconf/.osx
+    ~/.zprezto/myconf/.brew
     python ~/.zprezto/myconf/install_brew.py
     python ~/.zprezto/myconf/install_brewcask.py
 
