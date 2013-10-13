@@ -44,6 +44,7 @@ version is 4.3.10.
     ~/.zprezto/myconf/.brew
     python ~/.zprezto/myconf/install_brew.py
     python ~/.zprezto/myconf/install_brewcask.py
+    pip install virtualenvwrapper
 
 ### Troubleshooting
 
