@@ -34,17 +34,24 @@ version is 4.3.10.
   5. Open a new Zsh terminal window or tab.
 
   6. make pip cache-able
-    mkdir -p ${HOME}/.pip
-    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
-
-    mkdir -p ~/p
-    ln -sf ~/p ~/PycharmProjects
-
-    ~/.zprezto/myconf/.osx
-    ~/.zprezto/myconf/.brew
-    python ~/.zprezto/myconf/install_brew.py
-    python ~/.zprezto/myconf/install_brewcask.py
-    pip install virtualenvwrapper
+    
+	    mkdir -p ${HOME}/.pip
+	    
+	    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
+	
+	    mkdir -p ~/p
+	    
+	    ln -sf ~/p ~/PycharmProjects
+	
+	    ~/.zprezto/myconf/.osx
+	    
+	    ~/.zprezto/myconf/.brew
+	    
+	    python ~/.zprezto/myconf/install_brew.py
+	    
+	    python ~/.zprezto/myconf/install_brewcask.py
+	    
+	    pip install virtualenvwrapper
 
 ### Troubleshooting
 
