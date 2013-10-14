@@ -33,7 +33,7 @@ version is 4.3.10.
 
   5. Open a new Zsh terminal window or tab.
 
-  6. make pip cache-able
+  6. install stuff...
     
 	    mkdir -p ${HOME}/.pip
 	    
