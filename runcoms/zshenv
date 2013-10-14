@@ -74,5 +74,3 @@ if [[ ! -d "$TMPPREFIX" ]]; then
   mkdir -p "$TMPPREFIX"
 fi
 
-export HOMEBREW_CASK_OPTS="--appdir=/Applications"
-export WORKON_HOME=$HOME/p

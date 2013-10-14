@@ -14,3 +14,21 @@ fi
 if [[ -s `which virtualenvwrapper.sh` ]]; then
   source `which virtualenvwrapper.sh`
 fi
+
+alias o=open
+alias oo="open ."
+alias s="subl"
+alias h="history"
+
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/p
+
+mkdir -p $PROJECT_HOME
+
+alias mc1="ssh kmc1"
+alias vc1="ssh kvc1"
+alias vc2="ssh kvc2"
+alias vcm1="ssh kvcm1"
+alias vcm2="ssh kvcm2"
