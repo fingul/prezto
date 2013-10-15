@@ -7,7 +7,6 @@ colloquy
 cyberduck
 dropbox
 github
-gmail-notifr
 google-app-engine-launcher
 google-chrome
 google-drive

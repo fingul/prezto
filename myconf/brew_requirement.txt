@@ -1,4 +1,4 @@
-python --universal
+python
 #gawk need for djang-amdin.py auto completion
 gawk
 coreutils
