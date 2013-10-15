@@ -35,6 +35,10 @@ version is 4.3.10.
 
   6. install stuff...
     
+        ~/.zprezto/myconf/.osx
+
+        # TERMINAL WILL RESET
+
 	    mkdir -p ${HOME}/.pip
 	    
 	    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
@@ -43,8 +47,6 @@ version is 4.3.10.
 	    
 	    ln -sf ~/p ~/PycharmProjects
 	
-	    ~/.zprezto/myconf/.osx
-	    
 	    ~/.zprezto/myconf/.brew
 	    
 	    python ~/.zprezto/myconf/install_brew.py
