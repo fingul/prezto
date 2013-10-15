@@ -66,7 +66,7 @@ Updating
 
 Pull the latest changes and update submodules.
 
-    git pull && git submodule update --init --recursive
+    (cd ~/.zprezto && git pull && git submodule update --init --recursive)
 
 Usage
 -----
