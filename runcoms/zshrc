@@ -25,7 +25,6 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 export WORKON_HOME=$HOME/.virtualenvs
 export PROJECT_HOME=$HOME/p
 
-<<<<<<< HEAD
 mkdir -p $PROJECT_HOME
 
 alias kmc1="ssh kmc1"
@@ -33,10 +32,3 @@ alias kvc1="ssh kvc1"
 alias kvc2="ssh kvc2"
 alias kvcm1="ssh kvcm1"
 alias kvcm2="ssh kvcm2"
-=======
-alias mc1="ssh kmc1"
-alias vc1="ssh kvc1"
-alias vc2="ssh kvc2"
-alias vcm1="ssh kvcm1"
-alias vcm2="ssh kvcm2"
->>>>>>> e1db8c514eca8817c08f6d29686a7f5441b5fef3
