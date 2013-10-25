@@ -27,8 +27,8 @@ export PROJECT_HOME=$HOME/p
 
 mkdir -p $PROJECT_HOME
 
-alias mc1="ssh kmc1"
-alias vc1="ssh kvc1"
-alias vc2="ssh kvc2"
-alias vcm1="ssh kvcm1"
-alias vcm2="ssh kvcm2"
+alias kmc1="ssh kmc1"
+alias kvc1="ssh kvc1"
+alias kvc2="ssh kvc2"
+alias kvcm1="ssh kvcm1"
+alias kvcm2="ssh kvcm2"
