@@ -33,18 +33,27 @@ version is 4.3.10.
 
   5. Open a new Zsh terminal window or tab.
 
-  6. make pip cache-able
-    mkdir -p ${HOME}/.pip
-    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
+  6. install stuff...
+    
+        ~/.zprezto/myconf/.osx
 
-    mkdir -p ~/p
-    ln -sf ~/p ~/PycharmProjects
+        # TERMINAL WILL RESET
 
-    ~/.zprezto/myconf/.osx
-    ~/.zprezto/myconf/.brew
-    python ~/.zprezto/myconf/install_brew.py
-    python ~/.zprezto/myconf/install_brewcask.py
-    pip install virtualenvwrapper
+	    mkdir -p ${HOME}/.pip
+	    
+	    ln -sf .zprezto/myconf/pip.conf ${HOME}/.pip/
+	
+	    mkdir -p ~/p
+	    
+	    ln -sf ~/p ~/PycharmProjects
+	
+	    ~/.zprezto/myconf/.brew
+	    
+	    python ~/.zprezto/myconf/install_brew.py
+	    
+	    python ~/.zprezto/myconf/install_brewcask.py
+	    
+	    pip install virtualenvwrapper
 
 ### Troubleshooting
 
@@ -57,7 +66,7 @@ Updating
 
 Pull the latest changes and update submodules.
 
-    git pull && git submodule update --init --recursive
+    (cd ~/.zprezto && git pull && git submodule update --init --recursive)
 
 Usage
 -----
