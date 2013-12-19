@@ -1,6 +1,7 @@
 #USING - appstore!
 #evernote
 
+vmware-fusion
 android-file-transfer
 android-studio
 appcode
