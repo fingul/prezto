@@ -19,7 +19,7 @@ google-drive
 google-notifier
 handbrake
 handbrakebatch
-intellij-ultimate
+intellij-idea-ultimate
 keyremap4macbook
 libreoffice
 livereload
