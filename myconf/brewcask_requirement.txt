@@ -9,7 +9,6 @@ android-file-transfer
 android-studio
 appcode
 bettertouchtool
-cheat-sheet
 colloquy
 cyberduck
 dropbox
@@ -22,17 +21,16 @@ handbrake
 handbrakebatch
 intellij-ultimate
 keyremap4macbook
-libre-office
+libreoffice
 livereload
 mou
-pc-keyboardhack
+pckeyboardhack
 pg-commander
-postgres
 pycharm-pro
 rubymine
 skype
 sublime-text
-u-torrent
+utorrent
 virtualbox
 vlc
 vlc-remote
@@ -44,3 +42,8 @@ pgadmin3
 testflight
 google-hangouts
 vagrant
+
+#cheat-sheet
+
+#removed
+#postgresapp
