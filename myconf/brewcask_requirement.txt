@@ -4,6 +4,9 @@
 #android fast emulator
 genymotion
 
+#ssh helper
+shuttle
+
 java
 sourcetree
 vmware-fusion
