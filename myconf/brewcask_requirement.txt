@@ -5,6 +5,7 @@
 genymotion
 
 java
+sourcetree
 vmware-fusion
 android-file-transfer
 android-studio
