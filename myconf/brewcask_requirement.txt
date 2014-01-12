@@ -35,7 +35,7 @@ virtualbox
 vlc
 vlc-remote
 vlc-streamer
-x-quartz
+xquartz
 xld
 webstorm
 pgadmin3
