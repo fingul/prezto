@@ -1,6 +1,9 @@
 #USING - appstore!
 #evernote
 
+#android fast emulator
+genymotion
+
 vmware-fusion
 android-file-transfer
 android-studio
