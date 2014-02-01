@@ -18,6 +18,7 @@ colloquy
 cyberduck
 dropbox
 github
+google-web-designer
 google-app-engine-launcher
 google-chrome
 google-drive
