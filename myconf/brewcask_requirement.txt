@@ -1,5 +1,8 @@
 #USING - appstore!
 #evernote
+#vox
+
+vox-preference-pane
 
 #android fast emulator
 genymotion
