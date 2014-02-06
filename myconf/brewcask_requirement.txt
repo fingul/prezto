@@ -54,5 +54,4 @@ vagrant
 
 #cheat-sheet
 
-#removed
-#postgresapp
+postgres-app
