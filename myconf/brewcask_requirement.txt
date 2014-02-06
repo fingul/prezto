@@ -54,4 +54,5 @@ vagrant
 
 #cheat-sheet
 
-postgres-app
+#using brew postgres--
+#postgres-app
