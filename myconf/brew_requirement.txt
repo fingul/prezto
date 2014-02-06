@@ -22,3 +22,4 @@ watch
 wget
 htop
 http://toolbelt.treasure-data.com/brew/td-agent.rb
+postgres
