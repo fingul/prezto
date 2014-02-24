@@ -22,7 +22,7 @@ cyberduck
 dropbox
 github
 google-web-designer
-google-app-engine-launcher
+googleappenginelauncher
 google-chrome
 google-drive
 google-notifier
