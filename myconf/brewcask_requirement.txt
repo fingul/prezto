@@ -43,7 +43,7 @@ utorrent
 virtualbox
 vlc
 vlc-remote
-vlc-streamer
+vlcstreamer
 xquartz
 xld
 webstorm
