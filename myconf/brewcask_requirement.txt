@@ -31,7 +31,7 @@ handbrake
 handbrakebatch
 intellij-idea-ultimate
 keyremap4macbook
-libreoffice
+#libreoffice
 livereload
 mou
 pckeyboardhack
