@@ -29,14 +29,14 @@ google-drive
 google-notifier
 handbrake
 handbrakebatch
-intellij-idea-ultimate
+intellij-idea
 keyremap4macbook
 #libreoffice
 livereload
 mou
 pckeyboardhack
 pg-commander
-pycharm-pro
+pycharm
 rubymine
 skype
 sublime-text
