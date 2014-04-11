@@ -7,7 +7,7 @@ vox-preference-pane
 ifunbox
 #android fast emulator
 genymotion
-
+scroll-reverser
 #ssh helper
 shuttle
 
