@@ -10,6 +10,7 @@ genymotion
 scroll-reverser
 #ssh helper
 shuttle
+teamviewer
 
 keka
 #java
