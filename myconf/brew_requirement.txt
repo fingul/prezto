@@ -6,8 +6,8 @@ coreutils
 git
 ffmpeg --with-fdk-aac --with-ffplay --without-faac
 media-info
-gstreamer
-gst-plugins-*
+#gstreamer
+#gst-plugins-*
 redis
 pyside
 ssh-copy-id
