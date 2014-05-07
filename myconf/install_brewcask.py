@@ -12,7 +12,7 @@ l = filter(lambda s:len(s),l)
 
 
 print """
-brew tap phinze/homebrew-cask
+brew tap caskroom/cask
 brew install brew-cask
 
 """
