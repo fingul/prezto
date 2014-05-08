@@ -1,6 +1,11 @@
 #USING - appstore!
 #evernote
 #vox
+
+#for edit vmware fusion private network
+uber-network-fuser
+#for edit local dns file
+gas-mask
 rcdefaultapp
 ios7-screensaver
 vox-preference-pane
