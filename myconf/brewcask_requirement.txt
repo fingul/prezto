@@ -6,6 +6,7 @@
 uber-network-fuser
 #for edit local dns file
 gas-mask
+colorpicker-skalacolor
 rcdefaultapp
 ios7-screensaver
 vox-preference-pane
