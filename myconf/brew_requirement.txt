@@ -3,11 +3,13 @@ python
 #gawk need for djang-amdin.py auto completion
 gawk
 coreutils
+#mercurial
+hg
 git
 ffmpeg --with-fdk-aac --with-ffplay --without-faac
 media-info
 #gstreamer
-#gst-plugins-*
+#gst-pglugins-*
 redis
 pyside
 ssh-copy-id
