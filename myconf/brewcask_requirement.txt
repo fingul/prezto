@@ -65,3 +65,5 @@ vagrant
 
 #using brew postgres--
 #postgres-app
+#screen capture
+skitch
