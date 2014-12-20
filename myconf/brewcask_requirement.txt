@@ -2,6 +2,8 @@
 #evernote
 #vox
 
+#for reverse engineering apk (Android)
+apktool
 atom
 #for edit vmware fusion private network
 uber-network-fuser
