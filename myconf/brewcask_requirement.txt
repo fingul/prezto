@@ -2,6 +2,9 @@
 #evernote
 #vox
 
+#windows movement
+spectacle
+
 #for reverse engineering apk (Android)
 apktool
 atom
