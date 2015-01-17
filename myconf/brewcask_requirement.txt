@@ -3,6 +3,8 @@
 #vox
 
 #windows movement
+# setting @ /Users/o/Dropbox/Mackup/com.divisiblebyzero.Spectacle.plist
+# ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
 spectacle
 
 #for reverse engineering apk (Android)
