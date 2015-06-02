@@ -15,7 +15,7 @@ commands = ["brew cask audit {} --download".format(i) for i in l]
 
 
 from functools import partial
-from multiprocessing.dummy import Pool
+from multiprocessing import Pool
 from subprocess import call
 
 pool = Pool(30) # two concurrent commands at a time
