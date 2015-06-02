@@ -16,8 +16,6 @@ uber-network-fuser
 gas-mask
 colorpicker-skalacolor
 rcdefaultapp
-ios7-screensaver
-vox-preference-pane
 ifunbox
 #android fast emulator
 genymotion
@@ -25,17 +23,15 @@ scroll-reverser
 #ssh helper
 shuttle
 teamviewer
-
 keka
-#java
 sourcetree
 vmware-fusion
 android-file-transfer
 android-studio
 appcode
 bettertouchtool
+clion
 colloquy
-cyberduck
 dropbox
 github
 google-web-designer
@@ -46,16 +42,14 @@ google-notifier
 handbrake
 handbrakebatch
 intellij-idea
-keyremap4macbook
 #libreoffice
 livereload
 mou
-pckeyboardhack
+karabiner
 pg-commander
 pycharm
 rubymine
 skype
-utorrent
 virtualbox
 vlc
 vlc-remote
@@ -67,10 +61,20 @@ pgadmin3
 testflight
 google-hangouts
 vagrant
-
 #cheat-sheet
-
 #using brew postgres--
 #postgres-app
 #screen capture
 skitch
+diskmaker-x
+fluid
+java7
+keepingyouawake
+libreoffice
+openoffice
+osxfuse
+postgres
+qt-creator
+seil
+transmission
+wkhtmltopdf
