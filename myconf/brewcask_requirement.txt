@@ -7,6 +7,9 @@
 # ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
 spectacle
 
+#intellij, pycharm, rubymine need this.
+caskroom/homebrew-versions/java6
+
 #for reverse engineering apk (Android)
 apktool
 atom
