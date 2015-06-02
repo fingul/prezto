@@ -7,6 +7,11 @@
 # ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
 spectacle
 
+# serial - ~/Dropbox/app/mac
+tuxera-ntfs
+omnigraffle
+
+
 #intellij, pycharm, rubymine need this.
 caskroom/homebrew-versions/java6
 
