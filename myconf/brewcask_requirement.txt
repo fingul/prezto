@@ -10,13 +10,14 @@ spectacle
 # serial - ~/Dropbox/app/mac
 tuxera-ntfs
 omnigraffle
-
+forklift
+alfred
 
 #intellij, pycharm, rubymine need this.
 caskroom/homebrew-versions/java6
 
 #for reverse engineering apk (Android)
-apktool
+#apktool
 atom
 #for edit vmware fusion private network
 uber-network-fuser
