@@ -56,7 +56,6 @@ faac
 fdk-aac
 ffind
 ffmbc
-ffmpeg
 fontconfig
 freetype
 fribidi
