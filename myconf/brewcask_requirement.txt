@@ -12,6 +12,7 @@ tuxera-ntfs
 omnigraffle
 forklift
 alfred
+fantastical
 
 #intellij, pycharm, rubymine need this.
 caskroom/homebrew-versions/java6
