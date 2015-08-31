@@ -54,7 +54,8 @@ handbrakebatch
 intellij-idea
 #libreoffice
 livereload
-mou
+#mou - repalce by macdown
+macdown
 karabiner
 pg-commander
 pycharm
