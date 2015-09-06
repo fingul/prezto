@@ -2,6 +2,11 @@
 #evernote
 #vox
 
+#mou - repalce by macdown
+
+#moved to https://itunesconnect.apple.com
+#testflight
+
 #windows movement
 # setting @ /Users/o/Dropbox/Mackup/com.divisiblebyzero.Spectacle.plist
 # ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
@@ -19,13 +24,13 @@ expandrive
 navicat-premium
 
 #intellij, pycharm, rubymine need this.
-caskroom/homebrew-versions/java6
-
 #for reverse engineering apk (Android)
 #apktool
 robomongo
 flux
 java
+java6
+java7
 atom
 #for edit vmware fusion private network
 uber-network-fuser
@@ -50,18 +55,17 @@ bettertouchtool
 clion
 colloquy
 dropbox
-github
+github-desktop
 google-web-designer
-googleappenginelauncher
+google-notifier
+googleappengine
 google-chrome-canary
 google-drive
 google-notifier
 handbrake
 handbrakebatch
 intellij-idea
-#libreoffice
 livereload
-#mou - repalce by macdown
 macdown
 karabiner
 pg-commander
@@ -76,7 +80,6 @@ xquartz
 xld
 webstorm
 pgadmin3
-testflight
 google-hangouts
 vagrant
 #cheat-sheet
@@ -86,10 +89,9 @@ vagrant
 skitch
 diskmaker-x
 fluid
-java7
 keepingyouawake
-libreoffice
-openoffice
+#libreoffice
+#openoffice
 osxfuse
 postgres
 qt-creator
