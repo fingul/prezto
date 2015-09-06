@@ -30,7 +30,7 @@ youtube-dl
 zeromq
 watch
 wget
-htop
+htop-osx
 http://toolbelt.treasure-data.com/brew/td-agent.rb
 postgres
 #password generator
@@ -50,7 +50,6 @@ boost
 brew-cask
 cairo
 cmake
-docker
 etcd
 faac
 fdk-aac
@@ -130,13 +129,19 @@ shtool
 sip
 snappy
 sqlite
-sshpass
+https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
 texi2html
 theora
 unoconv
-unzip
+szip
 wxpython
 x264
 x265
 xvid
 yasm
+mongodb
+libmemcached
+memcached
+maven
+cassandra
+jevn

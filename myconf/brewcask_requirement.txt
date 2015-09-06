@@ -13,12 +13,19 @@ omnigraffle
 forklift
 alfred
 fantastical
+acorn
+daisydisk
+expandrive
+navicat-premium
 
 #intellij, pycharm, rubymine need this.
 caskroom/homebrew-versions/java6
 
 #for reverse engineering apk (Android)
 #apktool
+robomongo
+flux
+java
 atom
 #for edit vmware fusion private network
 uber-network-fuser
@@ -46,7 +53,7 @@ dropbox
 github
 google-web-designer
 googleappenginelauncher
-google-chrome
+google-chrome-canary
 google-drive
 google-notifier
 handbrake
