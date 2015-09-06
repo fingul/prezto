@@ -26,6 +26,7 @@ navicat-premium
 #intellij, pycharm, rubymine need this.
 #for reverse engineering apk (Android)
 #apktool
+the-unarchiver
 robomongo
 flux
 java
