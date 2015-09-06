@@ -57,11 +57,9 @@ colloquy
 dropbox
 github-desktop
 google-web-designer
-google-notifier
 googleappengine
 google-chrome-canary
 google-drive
-google-notifier
 handbrake
 handbrakebatch
 intellij-idea
