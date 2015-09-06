@@ -29,7 +29,7 @@ navicat-premium
 robomongo
 flux
 java
-java6
+caskroom/homebrew-versions/java6
 java7
 atom
 #for edit vmware fusion private network
