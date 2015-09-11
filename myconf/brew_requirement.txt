@@ -29,6 +29,8 @@ tree
 youtube-dl
 zeromq
 watch
+#for ember
+watchman
 wget
 htop-osx
 http://toolbelt.treasure-data.com/brew/td-agent.rb
