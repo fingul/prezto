@@ -1,3 +1,4 @@
+httpie
 antigen
 autojump
 gradle
