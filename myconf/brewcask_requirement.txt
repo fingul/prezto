@@ -100,3 +100,4 @@ seil
 transmission
 wkhtmltopdf
 istat-menus
+sshfs
