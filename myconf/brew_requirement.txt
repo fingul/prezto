@@ -21,7 +21,8 @@ media-info
 redis
 pyside
 ssh-copy-id
-sshfs
+#moved to cask
+#sshfs
 sshuttle
 elasticsearch
 thrift
