@@ -13,6 +13,7 @@
 spectacle
 
 # serial - ~/Dropbox/app/mac
+snagit
 tuxera-ntfs
 omnigraffle
 forklift
