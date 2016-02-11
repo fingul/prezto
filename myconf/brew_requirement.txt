@@ -35,7 +35,7 @@ watch
 watchman
 wget
 htop-osx
-http://toolbelt.treasure-data.com/brew/td-agent.rb
+#http://toolbelt.treasure-data.com/brew/td-agent.rb
 postgres
 #password generator
 pwgen
@@ -117,7 +117,7 @@ postgresql
 protobuf
 pssh
 pyenv
-pyqt
+#pyqt
 python3
 rabbitmq
 rbenv

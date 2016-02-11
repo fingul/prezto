@@ -9,6 +9,7 @@ brew upgrade
 
 # Install native apps
 brew tap caskroom/cask
+brew tap homebrew/dupes
 
 # Remove outdated versions from the cellar
 brew cleanup

@@ -77,7 +77,7 @@ virtualbox
 vlc
 vlc-remote
 vlcstreamer
-xquartz
+#xquartz
 xld
 webstorm
 pgadmin3
@@ -95,7 +95,7 @@ keepingyouawake
 #openoffice
 osxfuse
 postgres
-qt-creator
+#qt-creator
 seil
 transmission
 wkhtmltopdf

@@ -32,7 +32,7 @@ from subprocess import call
 pool = Pool(30) # two concurrent commands at a time
 for i, returncode in enumerate(pool.imap(partial(call, shell=True), commands_all)):
     if returncode != 0:
-       print("%d command failed: %d" % (i, returncode))
+       print("{} command failed: {}".format(i, returncode))
 
 
 #print("-"*80)
