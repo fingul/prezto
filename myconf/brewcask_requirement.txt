@@ -96,6 +96,6 @@ postgres
 #qt-creator
 seil
 transmission
-wkhtmltopdf
+#wkhtmltopdf
 istat-menus
 sshfs
