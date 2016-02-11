@@ -32,8 +32,6 @@ the-unarchiver
 robomongo
 flux
 java
-caskroom/homebrew-versions/java6
-java7
 atom
 #for edit vmware fusion private network
 uber-network-fuser

@@ -51,7 +51,6 @@ autoconf
 automake
 bazaar
 boost
-brew-cask
 cairo
 cmake
 etcd
