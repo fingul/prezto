@@ -12,6 +12,9 @@
 # ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
 spectacle
 
+#capture tool
+androidtool
+
 # serial - ~/Dropbox/app/mac
 #snagit
 tuxera-ntfs
