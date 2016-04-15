@@ -7,10 +7,18 @@
 #moved to https://itunesconnect.apple.com
 #testflight
 
-#windows movement
+# -- KEYBOARD MAPPING
+karabiner
+seil
+
+
+# -- WINDOWS MOVEMENT
 # setting @ /Users/o/Dropbox/Mackup/com.divisiblebyzero.Spectacle.plist
 # ~/Library/Preferences/com.divisiblebyzero.Spectacle.plist
 spectacle
+
+# -- VCS
+sourcetree
 
 #capture tool
 androidtool
@@ -25,13 +33,13 @@ fantastical
 acorn
 daisydisk
 expandrive
-navicat-premium
+
 
 #intellij, pycharm, rubymine need this.
 #for reverse engineering apk (Android)
-#apktool
+apktool
 dockertoolbox
-the-unarchiver
+
 robomongo
 flux
 java
@@ -41,64 +49,76 @@ uber-network-fuser
 #for edit local dns file
 gas-mask
 colorpicker-skalacolor
+
+#file association tool
 rcdefaultapp
 ifunbox
+
 #android fast emulator
 genymotion
 scroll-reverser
 #ssh helper
 shuttle
 teamviewer
+
+#compression
+the-unarchiver
 keka
-sourcetree
+
+
 vmware-fusion
 android-file-transfer
-android-studio
-appcode
-bettertouchtool
-clion
+
+
+#bettertouchtool - download @icloud/app
+
 colloquy
 dropbox
 github-desktop
 google-web-designer
 googleappengine
-google-chrome-canary
+google-chrome
 google-drive
+google-hangouts
+
 handbrake
 handbrakebatch
-intellij-idea
 livereload
 macdown
-karabiner
+
+
 pg-commander
-pycharm
-rubymine
+
+
 skype
 virtualbox
 vlc
 vlc-remote
 vlcstreamer
-#xquartz
-xld
+
+#JETBRAINS TOOLS
+appcode
+clion
+android-studio
+pycharm
+rubymine
 webstorm
+datagrip
+intellij-idea
+
 pgadmin3
-google-hangouts
+
 vagrant
-#cheat-sheet
-#using brew postgres--
-#postgres-app
 #screen capture
 skitch
-diskmaker-x
 fluid
 keepingyouawake
 #libreoffice
 #openoffice
-osxfuse
 postgres
 #qt-creator
-seil
+
 transmission
-#wkhtmltopdf
+
 istat-menus
 sshfs

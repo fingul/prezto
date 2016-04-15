@@ -1,25 +1,41 @@
+# -- VCS
+#mercurial
+hg
+git
+
+# -- utils
 httpie
-antigen
 autojump
 gradle
-htop-osx
+htop
 sox
 xz
 zsh
 ant
-python
+
+# -- homebrew/dupes
 #gawk need for djang-amdin.py auto completion
 gawk
 coreutils
-#mercurial
-hg
-git
-ffmpeg --with-fdk-aac --with-ffplay --without-faac
+rsync
+
+# -- NETWORK
+wget
+
+# -- SSH
+
+# -- SHELL
+
+# -- DATABASE
+postgres
+postgresql
+
+# -- MEDIA
+
+ffmpeg --with-fdk-aac --with-ffplay
 media-info
-#gstreamer
-#gst-pglugins-*
 redis
-pyside
+#pyside
 ssh-copy-id
 #moved to cask
 #sshfs
@@ -33,20 +49,19 @@ zeromq
 watch
 #for ember
 watchman
-wget
-htop-osx
+
 #http://toolbelt.treasure-data.com/brew/td-agent.rb
-postgres
+
 #password generator
 pwgen
 mackup
 autoenv
 awscli
-a52dec
+
 android-sdk
 ansible
 apktool
-atk
+
 autoconf
 automake
 bazaar
@@ -54,52 +69,15 @@ boost
 cairo
 cmake
 etcd
-faac
-fdk-aac
 ffind
 ffmbc
-fontconfig
-freetype
-fribidi
-gdbm
-gdk-pixbuf
-gettext
 go
-gobject-introspection
 haproxy
 hiredis
-icu4c
 imagemagick
 influxdb
-intltool
-jpeg
-json-c
-lame
-leveldb
-libass
-libcroco
-libebur128
-libevent
-libffi
-libnfc
-libogg
-libpng
-librsvg
-libtiff
-libtool
-libusb
-libusb-compat
-libvo-aacenc
-libvorbis
-libvpx
-libyaml
-libzip
+
 lua
-lz4
-m4
-mad
-makeicns
-mercurial
 mpssh
 msgpack
 mussh
@@ -107,34 +85,27 @@ mysql
 nfcutils
 nginx
 node
-nutcracker
 openssl
-opus
 phantomjs
 pkg-config
-postgresql
+
 protobuf
 pssh
+
+
+#https://github.com/yyuu/pyenv/wiki/Common-build-problems#requirements
+#-- pyenv need this
+readline
 pyenv
-#pyqt
-python3
+
 rabbitmq
 rbenv
-readline
-rsync
-ruby-build
-sdl
 shtool
 sip
 snappy
 sqlite
 https://raw.githubusercontent.com/kadwanev/bigboybrew/master/Library/Formula/sshpass.rb
-texi2html
-theora
 unoconv
-x264
-x265
-xvid
 yasm
 mongodb
 libmemcached
