@@ -7,6 +7,9 @@
 #moved to https://itunesconnect.apple.com
 #testflight
 
+#install photoshop & audion through this. then, check icloud app
+adobe-creative-cloud
+
 # -- KEYBOARD MAPPING
 karabiner
 seil
