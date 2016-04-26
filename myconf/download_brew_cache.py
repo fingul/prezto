@@ -29,7 +29,7 @@ from functools import partial
 from multiprocessing import Pool
 from subprocess import call
 
-pool = Pool(30) # two concurrent commands at a time
+pool = Pool(1) # two concurrent commands at a time
 for i, returncode in enumerate(pool.imap(partial(call, shell=True), commands_all)):
     if returncode != 0:
        print("{} command failed: {}".format(i, returncode))
