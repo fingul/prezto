@@ -26,8 +26,9 @@ sourcetree
 #capture tool
 androidtool
 
-# serial - ~/Dropbox/app/mac
+# serial - icloud/app
 #snagit
+appdelete
 tuxera-ntfs
 omnigraffle
 forklift
