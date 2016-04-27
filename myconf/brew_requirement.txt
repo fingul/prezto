@@ -97,6 +97,7 @@ pssh
 #-- pyenv need this
 readline
 pyenv
+pyenv-virtualenv
 
 rabbitmq
 rbenv
