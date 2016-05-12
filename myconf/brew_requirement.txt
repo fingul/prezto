@@ -12,6 +12,7 @@ gradle
 htop
 sox
 xz
+pxz
 zsh
 ant
 
