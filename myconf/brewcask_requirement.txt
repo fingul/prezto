@@ -1,4 +1,6 @@
 visual-studio-code
+#google hangout client
+yakyak
 #facebook client
 caprine
 #pdf from sphinx
@@ -89,7 +91,7 @@ google-web-designer
 googleappengine
 google-chrome
 google-drive
-google-hangouts
+#google-hangouts - replace by yakyak
 
 handbrake
 handbrakebatch
