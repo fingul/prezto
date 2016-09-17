@@ -1,5 +1,6 @@
 p7zip
-
+#command line json query tool
+jq
 # -- VCS
 #mercurial
 hg
