@@ -51,6 +51,8 @@ thrift
 tmux
 tree
 youtube-dl
+#You-Get is a tiny command-line utility to download media contents 
+you-get
 zeromq
 watch
 #for ember
