@@ -1,3 +1,6 @@
+
+appcleaner
+
 #Secure tunnels to localhost
 ngrok
 
