@@ -1,3 +1,5 @@
+# monitor disable/resolution tool
+disablemonitor
 
 appcleaner
 
