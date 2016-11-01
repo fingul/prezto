@@ -5,6 +5,8 @@ jq
 #mercurial
 hg
 git
+#git large file system
+git-lfs
 
 # -- utils
 httpie
