@@ -8,6 +8,9 @@ git
 #git large file system
 git-lfs
 
+#findutils - find, xargs
+findutils
+
 # -- utils
 httpie
 autojump
