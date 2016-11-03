@@ -58,8 +58,7 @@ expandrive
 #intellij, pycharm, rubymine need this.
 #for reverse engineering apk (Android)
 apktool
-dockertoolbox
-
+docker
 robomongo
 flux
 java
