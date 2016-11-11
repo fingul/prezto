@@ -1,3 +1,6 @@
+# slide tool -use with remarkjs!
+marp
+
 # monitor disable/resolution tool
 disablemonitor
 
