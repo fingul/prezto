@@ -1,3 +1,6 @@
+# directory 이동 시 자동 활성화
+direnv
+
 p7zip
 #command line json query tool
 jq
