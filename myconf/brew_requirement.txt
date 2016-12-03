@@ -1,3 +1,5 @@
+# npm alternative by facebook - includes node
+yarn
 # directory 이동 시 자동 활성화
 direnv
 
